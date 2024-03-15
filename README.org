@@ -1,3 +1,11 @@
 #+title: Oogway Server
 
 This is the server that powers the Oogway service.
+
+* Technologies
+
+  - Java
+  - Spring
+  - Beans
+  - Websockets
+  - GraphQL
